@@ -2,15 +2,57 @@
   background-color: whitesmoke;
   margin-left: 10%;
   margin-top: 1%;
-  margin-right: 10%;
+  margin-right: 50%;
+}
+
+.navbar1 {
+  background-color: whitesmoke;
+  margin-left: 75%;
+  margin-top: -5%;
 }
 
 .greeting {
   margin-top: 18%;
 }
 
-.card{
+.profil {
+  margin-left: 20%;
   margin-top: 20%;
+}
+
+.jumbotron {
+  margin-left: 30%;
+  margin-top: -11%;
+  margin-right: 20%;
+  background-color: whitesmoke;
+}
+
+.interest {
+  margin-left: 71%;
+  margin-top: 5%;
+}
+
+.jumbotron1 {
+  margin-left: 20%;
+  margin-top: -6%;
+  margin-right: 35%;
+  background-color: whitesmoke;
+}
+
+.education {
+  margin-left: 20%;
+  margin-top: 12%;
+}
+
+.jumbotron2 {
+  margin-left: 30%;
+  margin-top: -7%;
+  margin-right: 20%;
+  background-color: whitesmoke;
+}
+
+.card{
+  margin-top: 10%;
   display: flex;
   background-color: whitesmoke;
   margin-left: 20%;
